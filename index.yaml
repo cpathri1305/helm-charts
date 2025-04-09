@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  first-chart:
+  - apiVersion: v2
+    appVersion: 1.27.0
+    created: "2025-04-08T19:43:07.2411081-07:00"
+    description: my first helm project
+    digest: 841444c31f231ed6f906fad6f171ed208ce8523a3a934bcedea1cd046a785f86
+    name: first-chart
+    type: application
+    urls:
+    - first-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-08T19:43:07.2411081-07:00"
